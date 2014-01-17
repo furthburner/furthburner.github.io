@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: init.el | My Octopress Blog]]></title>
+  <title><![CDATA[Category: init.el | Furthburners and related widgets.]]></title>
   <link href="http://furthburner.github.io/blog/categories/init-dot-el/atom.xml" rel="self"/>
   <link href="http://furthburner.github.io/"/>
-  <updated>2014-01-16T22:34:59-05:00</updated>
+  <updated>2014-01-17T09:21:24-05:00</updated>
   <id>http://furthburner.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Furth Burning Man]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -19,19 +19,20 @@
     <updated>2014-01-16T22:25:30-05:00</updated>
     <id>http://furthburner.github.io/blog/2014/01/16/emacs-plus-git-adding-git-identity-to-the-emacs-frame-title</id>
     <content type="html"><![CDATA[<p>I am a heavy emacs  person, so, when I started using Git, I really  wanted to see what Git
-branch I am  working on, and in what  repository. To make this happen, you  will need both
-<tt>.bashrc</tt> code as well as <tt>~/.emacs.d/init.el</tt> code.</p>
+branch I am working  on, and in what repository along with the  frame title.  I worked the
+problem   by   making   a   couple   of   tweaks   to   my   <tt>~/.bashrc</tt>   and   my
+<tt>~/.emacs.d/init.el</tt>  configuration.</p>
 
-<p>First, the <tt>~/.bashrc</tt> code for setting up the environment variables:</p>
+<p>First, I instructed my <tt>~/.bashrc</tt> to  set up two new environment variables for git
+(<tt>GIT_BRANCH</tt> &amp; <tt>GIT_REPO_NAME</tt>):</p>
 
 <p><code>sh bashrc code for setting up environment variables
 PROMPT_COMMAND="export GIT_REPO_NAME=\$(git remote -v 2&gt; /dev/null | grep \"origin.*fetch\" | awk '{print \$2}' | sed 's,https://github.com/.*/\(.*\).git,\1,g'); export GIT_BRANCH=\$(git branch 2&gt; /dev/null | grep \"^*\" | awk '{
 print \$2}')"
-</code></p>
+</code>
+Next, you use the environment variables that are set in your <tt>~/.emacs.d/init.el</tt> like so:</p>
 
-<p>What the above lines give you is that they set up the environment variables <tt>GIT_BRANCH</tt> and <tt>GIT_REPO_NAME</tt>. You can use them in your <tt>~/.emacs.d/init.el</tt> like so:</p>
-
-<p>``` sh init.el code for setting up emacs frame title
+<p>``` sh init.el code for setting up emacs frame title (sadly, pygments does not have lisp support)
 ;;; Rest of init.el code
 (setq-default
   frame-title-format
@@ -51,9 +52,11 @@ print \$2}')"
 <p>;;; All the other goodies in init.el
 ```</p>
 
-<p>There is one caveat, though. The frame title does not change as the working buffer changes
-from one directory to another. I have to  figure out a way to constantly refresh the frame
-title to reflect the current buffer&rsquo;s git identity/status.</p>
+<p>Note that everytime  a new bash prompt appears, the environment  variables are reset (this
+is good), but the environment variable does not change (within emacs, i.e.) as the working
+buffer  changes from  one directory  to another  (this is  not so  good because  the other
+directory might be a different git repo/branch).  I have to figure out a way to constantly
+refresh the frame title to reflect the current buffer&rsquo;s git identity/status.</p>
 ]]></content>
   </entry>
   
