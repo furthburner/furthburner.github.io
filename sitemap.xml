@@ -2,11 +2,33 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://furthburner.github.io/blog/2014/01/16/epson-v700/</loc>
-        <lastmod>2014-01-16T19:13:29-05:00</lastmod>
+        <lastmod>2014-01-16T19:15:04-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://furthburner.github.io/blog/2014/01/16/ivan-jovanovics-octopress-theme/</loc>
+        <lastmod>2014-01-16T19:16:27-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://furthburner.github.io/blog/2014/01/16/want-a-landline-phone-set-up-a-completely-free-landline-service-for-us-and-canada/
+        </loc>
+        <lastmod>2014-01-16T22:18:18-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://furthburner.github.io/blog/2014/01/16/ditch-cable-enjoy-free-ota-hdtv-with-an-antenna-and-a-booster-save-%24/
+        </loc>
+        <lastmod>2014-01-16T22:24:16-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://furthburner.github.io/blog/2014/01/16/emacs-plus-git-adding-git-identity-to-the-emacs-frame-title/
+        </loc>
+        <lastmod>2014-01-16T22:34:40-05:00</lastmod>
     </url>
     <url>
         <loc>http://furthburner.github.io/blog/archives/</loc>
-        <lastmod>2014-01-16T19:13:29-05:00</lastmod>
+        <lastmod>2014-01-16T22:34:40-05:00</lastmod>
     </url>
     <url>
         <loc>http://furthburner.github.io/robots.txt</loc>
@@ -14,6 +36,6 @@
     </url>
     <url>
         <loc>http://furthburner.github.io/</loc>
-        <lastmod>2014-01-16T19:13:29-05:00</lastmod>
+        <lastmod>2014-01-16T22:34:40-05:00</lastmod>
     </url>
 </urlset>

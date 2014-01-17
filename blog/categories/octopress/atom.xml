@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Octopress | My Octopress Blog]]></title>
+  <link href="http://furthburner.github.io/blog/categories/octopress/atom.xml" rel="self"/>
+  <link href="http://furthburner.github.io/"/>
+  <updated>2014-01-16T22:34:59-05:00</updated>
+  <id>http://furthburner.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Ivan Jovanovic's Octopress Theme]]></title>
+    <link href="http://furthburner.github.io/blog/2014/01/16/ivan-jovanovics-octopress-theme/"/>
+    <updated>2014-01-16T19:16:08-05:00</updated>
+    <id>http://furthburner.github.io/blog/2014/01/16/ivan-jovanovics-octopress-theme</id>
+    <content type="html"><![CDATA[<p><a href="https://github.com/ivanjovanovic/ji-octopress-theme">Ivan&rsquo;s Octopress theme</a> is really very nice.</p>
+
+<p>Quite a  while ago, I used  to enjoy far blander  themes, and the  high-key/black on white
+theme that  became very  popular with Google&rsquo;s  main webpage  was a big  hit with  me well
+before Google&rsquo;s time. In fact, that was my  webpage theme for a long time. It was actually
+inspired by <a href="http://www.mit.edu/people/tivol/">someone at MIT</a>.</p>
+
+<p>Anyway, I  think a change  now and then  is good for you.  Ivan&rsquo;s theme strikes  the right
+balance between the bland/big lettered web sstyles of today and a genuine appreciation for
+color and font rendition on modern machines.</p>
+]]></content>
+  </entry>
+  
+</feed>

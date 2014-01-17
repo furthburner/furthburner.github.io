@@ -4,7 +4,7 @@
   <title><![CDATA[Category: iScan | My Octopress Blog]]></title>
   <link href="http://furthburner.github.io/blog/categories/iscan/atom.xml" rel="self"/>
   <link href="http://furthburner.github.io/"/>
-  <updated>2014-01-16T19:14:05-05:00</updated>
+  <updated>2014-01-16T22:34:59-05:00</updated>
   <id>http://furthburner.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -18,7 +18,7 @@
     <link href="http://furthburner.github.io/blog/2014/01/16/epson-v700/"/>
     <updated>2014-01-16T19:12:02-05:00</updated>
     <id>http://furthburner.github.io/blog/2014/01/16/epson-v700</id>
-    <content type="html"><![CDATA[<p>I          found           that          the          basic           <a href="http://www.epson.com/cgi-bin/Store/jsp/Product.do?sku=B11B178011">Epson          V700  scanner</a>   works  quite
+    <content type="html"><![CDATA[<p>I          found           that          the          basic           <a href="http://www.epson.com/cgi-bin/Store/jsp/Product.do?sku=B11B178011">Epson V700 scanner</a>   works  quite
 well    with    the   OEM    software    that   came    with    it.     I   tried    using
 <a href="http://www.hamrick.com">VueScan</a>, and wanted to like it, but I must say the program is a
 little counterintuitive&mdash;maybe the fact that the  trial version of VueScan on Windows and
