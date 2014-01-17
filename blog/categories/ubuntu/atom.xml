@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Ubuntu | My Octopress Blog]]></title>
+  <link href="http://furthburner.github.io/blog/categories/ubuntu/atom.xml" rel="self"/>
+  <link href="http://furthburner.github.io/"/>
+  <updated>2014-01-16T19:14:05-05:00</updated>
+  <id>http://furthburner.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Epson V700]]></title>
+    <link href="http://furthburner.github.io/blog/2014/01/16/epson-v700/"/>
+    <updated>2014-01-16T19:12:02-05:00</updated>
+    <id>http://furthburner.github.io/blog/2014/01/16/epson-v700</id>
+    <content type="html"><![CDATA[<p>I          found           that          the          basic           <a href="http://www.epson.com/cgi-bin/Store/jsp/Product.do?sku=B11B178011">Epson          V700  scanner</a>   works  quite
+well    with    the   OEM    software    that   came    with    it.     I   tried    using
+<a href="http://www.hamrick.com">VueScan</a>, and wanted to like it, but I must say the program is a
+little counterintuitive&mdash;maybe the fact that the  trial version of VueScan on Windows and
+(Ubuntu) Linux differ by quite a bit seems to  have played a role in this decision.  I liked that
+VueScan works  in Linux,  and I might  gravitate towards  it for that  reason at  a later
+time. For now, it appears like I am happy with a workflow that involves my Epson V700 OEM
+software and Windows XP.</p>
+
+<p>On a related note,  what about the iScan software and related  drivers from the Epson site
+(see  <a href="http://askubuntu.com/questions/190820/12-04-epson-scanner-will-not-install">this thread  on  the askubuntu.com  forum</a>?  I still  have not tried this software  on the Ubuntu
+box. I&rsquo;ll post my results here soon after I try it.</p>
+]]></content>
+  </entry>
+  
+</feed>
