@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Epson V700"
+date: 2014-01-16 19:12:02 -0500
+comments: true
+categories: [Epson V700, VueScan, iScan, Ubuntu, Film, Slides]
+---
+
+I          found           that          the          basic           [Epson V700 scanner](http://www.epson.com/cgi-bin/Store/jsp/Product.do?sku=B11B178011)   works  quite
+well    with    the   OEM    software    that   came    with    it.     I   tried    using
+[VueScan](http://www.hamrick.com), and wanted to like it, but I must say the program is a
+little counterintuitive--maybe the fact that the  trial version of VueScan on Windows and
+(Ubuntu) Linux differ by quite a bit seems to  have played a role in this decision.  I liked that
+VueScan works  in Linux,  and I might  gravitate towards  it for that  reason at  a later
+time. For now, it appears like I am happy with a workflow that involves my Epson V700 OEM
+software and Windows XP.
+
+On a related note,  what about the iScan software and related  drivers from the Epson site
+(see  [this thread  on  the askubuntu.com  forum](http://askubuntu.com/questions/190820/12-04-epson-scanner-will-not-install)?  I still  have not tried this software  on the Ubuntu
+box. I'll post my results here soon after I try it.
