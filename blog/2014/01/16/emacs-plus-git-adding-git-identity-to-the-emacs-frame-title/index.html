@@ -101,9 +101,7 @@ problem   by   making   a   couple   of   tweaks   to   my   <tt>~/.bashrc</tt> 
 (<tt>GIT_BRANCH</tt> &amp; <tt>GIT_REPO_NAME</tt>):</p>
 
 <figure class='code'><figcaption><span>bashrc code for setting up environment variables</span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-</pre></td><td class='code'><pre><code class='sh'><span class='line'><span class="nv">PROMPT_COMMAND</span><span class="o">=</span><span class="s2">&quot;export GIT_REPO_NAME=\$(git remote -v 2&gt; /dev/null | grep \&quot;origin.*fetch\&quot; | awk &#39;{print \$2}&#39; | sed &#39;s,https://github.com/.*/\(.*\).git,\1,g&#39;); export GIT_BRANCH=\$(git branch 2&gt; /dev/null | grep \&quot;^*\&quot; | awk &#39;{</span>
-</span><span class='line'><span class="s2">print \$2}&#39;)&quot;</span>
+</pre></td><td class='code'><pre><code class='sh'><span class='line'><span class="nv">PROMPT_COMMAND</span><span class="o">=</span><span class="s2">&quot;export GIT_REPO_NAME=\$(git remote -v 2&gt; /dev/null | grep \&quot;origin.*fetch\&quot; | awk &#39;{print \$2}&#39; | sed &#39;s,https://github.com/\(.*\)/\(.*\),\1,g&#39;); export GIT_BRANCH=\$(git branch 2&gt; /dev/null | grep \&quot;^*\&quot; | awk &#39;{print \$2}&#39;)&quot;</span>
 </span></code></pre></td></tr></table></div></figure>
 
 
