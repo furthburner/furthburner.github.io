@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: init.el | Furthburners and related widgets.]]></title>
+  <title><![CDATA[Category: init.el | Furth burners and related widgets.]]></title>
   <link href="http://furthburner.github.io/blog/categories/init-dot-el/atom.xml" rel="self"/>
   <link href="http://furthburner.github.io/"/>
-  <updated>2014-01-21T14:50:14-05:00</updated>
+  <updated>2014-01-21T14:58:39-05:00</updated>
   <id>http://furthburner.github.io/</id>
   <author>
     <name><![CDATA[Furth Burning Man]]></name>
