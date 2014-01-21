@@ -4,7 +4,7 @@
   <title><![CDATA[Furthburners and related widgets.]]></title>
   <link href="http://furthburner.github.io/atom.xml" rel="self"/>
   <link href="http://furthburner.github.io/"/>
-  <updated>2014-01-20T18:39:10-05:00</updated>
+  <updated>2014-01-21T14:40:58-05:00</updated>
   <id>http://furthburner.github.io/</id>
   <author>
     <name><![CDATA[Furth Burning Man]]></name>
@@ -12,6 +12,20 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[More Power to Chet Kanojia and Aereo]]></title>
+    <link href="http://furthburner.github.io/blog/2014/01/21/more-power-to-chet-kanojia-and-aereo/"/>
+    <updated>2014-01-21T14:37:00-05:00</updated>
+    <id>http://furthburner.github.io/blog/2014/01/21/more-power-to-chet-kanojia-and-aereo</id>
+    <content type="html"><![CDATA[<p>I met this Chet Kanojia  a few years ago at a technology meet in  Boston. He was already a
+bit of a celebrity then, in a room full  of TV execs and advertisement execs. Chet has the
+raw energy  of a man on  a mission. I  wish Aereo and  Chet speedy and awesome  success in
+their endeavors. Life&rsquo;s too short for annoying monopolies and cartels.</p>
+
+<p>Check out <a href="http://www.nytimes.com/2014/01/20/business/media/chet-kanojia-and-aereo-seek-to-shake-up-television-industry.html?smid=fb-nytimes&amp;WT.z_sma=BU_ATA_20140121&amp;bicmp=AD&amp;bicmlukp=WT.mc_id&amp;bicmst=1388552400000&amp;bicmet=1420088400000&amp;_r=0">more about Chet at nytimes.com</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Emacs+git: Adding Git Identity to the Emacs Frame Title]]></title>
