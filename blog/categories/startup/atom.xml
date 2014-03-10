@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Startup | Furth burners and related widgets.]]></title>
+  <title><![CDATA[Category: startup | Furth burners and related widgets.]]></title>
   <link href="http://furthburner.github.io/blog/categories/startup/atom.xml" rel="self"/>
   <link href="http://furthburner.github.io/"/>
-  <updated>2014-03-10T10:13:11-04:00</updated>
+  <updated>2014-03-10T10:16:17-04:00</updated>
   <id>http://furthburner.github.io/</id>
   <author>
     <name><![CDATA[Furth Burning Man]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[So, You Want to Join a Startup?]]></title>
+    <title type="html"><![CDATA[So, you want to join a startup?]]></title>
     <link href="http://furthburner.github.io/blog/2014/03/07/so/"/>
     <updated>2014-03-07T20:01:51-05:00</updated>
     <id>http://furthburner.github.io/blog/2014/03/07/so</id>
@@ -23,8 +23,7 @@ like to join a startup to make a  pile of money.&rdquo; Well, think harder. Unle
 want to  start your own  company, the reality is  something rather different.  Things have
 gotten         quite        out-of-hand         in        recent         times,        and
 <a href="http://www.businessinsider.com/this-22-year-veteran-of-startups-says-employees-are-getting-screwed-by-vcs-and-ceos-2014-3?fb_action_ids=427078274093582&amp;fb_action_types=og.recommends&amp;fb_source=other_multiline&amp;action_object_map=%7B%22427078274093582%22%3A225001791037273%7D&amp;action_type_map=%7B%22427078274093582%22%3A%22og.recommends%22%7D&amp;action_ref_map=%5B%5D">other</a>
-<a href="http://rob.by/2013/negotiating-your-startup-job-offer/">folks</a>                      [have spoken]
-(<a href="http://venturehacks.com/articles/option-pool-shuffle#market">http://venturehacks.com/articles/option-pool-shuffle#market</a>)
+<a href="http://rob.by/2013/negotiating-your-startup-job-offer/">folks</a>                      <a href="http://venturehacks.com/articles/option-pool-shuffle#market">have spoken</a>
 <a href="http://cdixon.org/2009/08/27/the-one-number-you-should-know-about-your-equity-grant/">about the issue</a>.</p>
 ]]></content>
   </entry>
